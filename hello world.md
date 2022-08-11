@@ -1,2 +1,3 @@
-hello world
-New line
+# Знакомство с Git!
+
+Начало пути!
