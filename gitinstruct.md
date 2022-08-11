@@ -1,4 +1,4 @@
-![alt-текст](.\git.png "git logo")
+![alt-текст](git.png "git logo")
 
 # Инструкция по работе с Git
 
