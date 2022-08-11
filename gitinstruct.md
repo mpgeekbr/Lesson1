@@ -26,3 +26,5 @@ Git для новичков [(часть2)](https://habr.com/ru/post/542616/)
 >updated for ver1
 
 >updated for ver2
+
+>updated for ver3
