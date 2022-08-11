@@ -24,3 +24,4 @@ Git для новичков [(часть2)](https://habr.com/ru/post/542616/)
 Для улучшения ваших навыков, в очередной раз оставлю ссылку на полезный [тренажер с заданиями](https://learngitbranching.js.org/).
 
 >updated for ver1
+>updated for ver2
